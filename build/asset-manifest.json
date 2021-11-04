@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Academlo/react-academlo/static/css/main.741ab703.chunk.css",
+    "main.js": "/Academlo/react-academlo/static/js/main.3828485b.chunk.js",
+    "main.js.map": "/Academlo/react-academlo/static/js/main.3828485b.chunk.js.map",
+    "runtime-main.js": "/Academlo/react-academlo/static/js/runtime-main.43a5137f.js",
+    "runtime-main.js.map": "/Academlo/react-academlo/static/js/runtime-main.43a5137f.js.map",
+    "static/js/2.16d5761f.chunk.js": "/Academlo/react-academlo/static/js/2.16d5761f.chunk.js",
+    "static/js/2.16d5761f.chunk.js.map": "/Academlo/react-academlo/static/js/2.16d5761f.chunk.js.map",
+    "index.html": "/Academlo/react-academlo/index.html",
+    "static/css/main.741ab703.chunk.css.map": "/Academlo/react-academlo/static/css/main.741ab703.chunk.css.map",
+    "static/js/2.16d5761f.chunk.js.LICENSE.txt": "/Academlo/react-academlo/static/js/2.16d5761f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a5137f.js",
+    "static/js/2.16d5761f.chunk.js",
+    "static/css/main.741ab703.chunk.css",
+    "static/js/main.3828485b.chunk.js"
+  ]
+}
